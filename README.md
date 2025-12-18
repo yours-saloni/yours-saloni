@@ -50,10 +50,11 @@ Completed Deloitte Australia's Data Analytics virtual experience, focusing on re
 - SQL / Python (if used)
 
 ## Certificate
-- <img width="946" height="666" alt="image" src="https://github.com/user-attachments/assets/c2f65203-c735-421e-8db0-17262b432175" width="450"/>
+<img src="[deloitte certificate.pdf](https://github.com/user-attachments/files/24228753/deloitte.certificate.pdf)" alt="Deloitte Certificate" width="450"/>
 **my work**
--<img width="1108" height="780" alt="image" src="https://github.com/user-attachments/assets/cb1e06ce-57c8-4f92-96a0-1692c5fa0952" width="450"/>
--<img width="1280" height="792" alt="image" src="https://github.com/user-attachments/assets/90b52ce0-d6bd-4c89-bedd-cfc7e9c36bc4" width="450"/>
+<img src="" alt="work 1" width="450"/>
+<img src="" alt="work 2" width="450"/>
+
 
 
 
