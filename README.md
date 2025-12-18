@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi 👋, I'm Saloni  
+### Web Developer & Aspiring Data Analyst
 
-<!--
-**yours-saloni/yours-saloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build responsive web applications and analyze data to extract meaningful insights using data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I’m Working On
+- Building modern, responsive web applications  
+- Exploring data analysis with real-world datasets  
+- Improving SQL, Python, and data visualization skills  
+
+---
+
+### 🧠 Skills
+
+**Web Development**
+- HTML, CSS, JavaScript  
+- React  
+- Git & GitHub  
+
+**Data Analysis**
+- Python (Pandas, NumPy, Matplotlib)  
+- SQL & MySQL  
+- Data Cleaning & Exploratory Data Analysis  
+
+---
+
+### 📂 Projects
+- **Portfolio Website** – Personal responsive portfolio
+- **Jivan Setu**-organ donation full stack website
+- **Sales Data Analysis** – Data cleaning and insights using Python  
+- **Dashboard Project** – Interactive dashboard for data visualization  
+
+---
+
+### 📫 Connect with Me
+- Email: salonisingh191812@gmail.com
